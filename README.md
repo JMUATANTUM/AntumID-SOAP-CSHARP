@@ -1,7 +1,7 @@
 # AntumID-SOAP-CSHARP
 A SOAP based version of AntumID (DigiByte DigiID) For C# .NET with ID information (**Windows Desktop APP example**)
 
-**AntumID SOAP Authentication Open Protocol with identification information**
+**AntumID SOAP Authentication Protocol with identification information**
 
 Easily integrate the  Open AntumID SOAP into Windows Applications with identification information. AntumID has an API available that does not require a digiid library, pure blockchain login without any problems.
 
