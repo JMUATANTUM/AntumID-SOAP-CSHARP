@@ -13,7 +13,7 @@ Using this source code with the API KEY you can try the demo.
 Installation
 ============
 * Copy source code into your C# project and add web-reference to the AntumID SOAP WSDL file ( https://www.antumid.be/services-digibyte/api/v1/messageService.wsdl )
-* Property AuthenticationRequestReturnFields can be used to set the return fields (use * for all fields)
+* Property AuthenticationRequestReturnFields can be used to set the return fields.
 * Example 1 Get single item: SOAPMessage.AuthenticationRequestReturnFields = "FIRSTNAME|";
 * Example 2 Get two or more items: SOAPMessage.AuthenticationRequestReturnFields = "FIRSTNAME|LASTNAME|"; 
 * Example 3 Get all values: SOAPMessage.AuthenticationRequestReturnFields = "*";
