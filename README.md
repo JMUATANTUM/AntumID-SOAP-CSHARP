@@ -13,6 +13,7 @@ Using this source code with the API KEY you can try the demo.
 Installation
 ============
 * Copy source code into your C# project and add web-reference to the AntumID SOAP WSDL file ( https://www.antumid.be/services-digibyte/api/v1/messageService.wsdl )
+* Property AuthenticationRequestReturnFields can be used to set the return fields (use * for all fields)
 * Aks for your AntumID SOAP Token-key to use this within your project, request for token GUID key at support@antumid.be 
 
 Notes
